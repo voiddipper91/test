@@ -1,2 +1,2 @@
 # test
-# 測試用
+# 練習python
