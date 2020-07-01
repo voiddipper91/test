@@ -9,7 +9,7 @@ all_count = []
 
 while True:
 	game_count += 1 #執行一次猜數字
-	guess_count = 0 
+	guess_count = 0
 	answer = random.randint(0,9)
 	while True:
 		guess = int(input("請猜一個數字(0-9):"))
